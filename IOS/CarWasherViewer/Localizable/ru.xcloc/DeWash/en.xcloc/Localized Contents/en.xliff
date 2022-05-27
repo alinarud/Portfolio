@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="DeWash/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.4.1" build-num="11E503a"/>
+    </header>
+    <body>
+      <trans-unit id="0rh-Y5-V2q.placeholder" xml:space="preserve">
+        <source>Description</source>
+        <target>Description</target>
+        <note>Class = "UITextField"; placeholder = "Description"; ObjectID = "0rh-Y5-V2q";</note>
+      </trans-unit>
+      <trans-unit id="1ML-wN-tna.text" xml:space="preserve">
+        <source>Pomp 2 working time:</source>
+        <target>Pomp 2 working time:</target>
+        <note>Class = "UILabel"; text = "Pomp 2 working time:"; ObjectID = "1ML-wN-tna";</note>
+      </trans-unit>
+      <trans-unit id="5kB-fI-ci3.text" xml:space="preserve">
+        <source>Electricity consumption:</source>
+        <target>Electricity consumption:</target>
+        <note>Class = "UILabel"; text = "Electricity consumption:"; ObjectID = "5kB-fI-ci3";</note>
+      </trans-unit>
+      <trans-unit id="7oh-Me-ojh.text" xml:space="preserve">
+        <source>Working time:</source>
+        <target>Working time:</target>
+        <note>Class = "UILabel"; text = "Working time:"; ObjectID = "7oh-Me-ojh";</note>
+      </trans-unit>
+      <trans-unit id="38h-np-Ia3.placeholder" xml:space="preserve">
+        <source>pomp 2 working time</source>
+        <target>pomp 2 working time</target>
+        <note>Class = "UITextField"; placeholder = "pomp 2 working time"; ObjectID = "38h-np-Ia3";</note>
+      </trans-unit>
+      <trans-unit id="Ard-6Y-KTu.text" xml:space="preserve">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "UILabel"; text = "State"; ObjectID = "Ard-6Y-KTu";</note>
+      </trans-unit>
+      <trans-unit id="B4x-cE-rxL.text" xml:space="preserve">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "UILabel"; text = "State"; ObjectID = "B4x-cE-rxL";</note>
+      </trans-unit>
+      <trans-unit id="BMO-1o-yDV.text" xml:space="preserve">
+        <source>Chemistry consumption:</source>
+        <target>Chemistry consumption:</target>
+        <note>Class = "UILabel"; text = "Chemistry consumption:"; ObjectID = "BMO-1o-yDV";</note>
+      </trans-unit>
+      <trans-unit id="Eeb-4a-48X.text" xml:space="preserve">
+        <source>Select automode:</source>
+        <target>Select automode:</target>
+        <note>Class = "UILabel"; text = "Select automode:"; ObjectID = "Eeb-4a-48X";</note>
+      </trans-unit>
+      <trans-unit id="Erz-8w-W7A.text" xml:space="preserve">
+        <source>Put money:</source>
+        <target>Put money:</target>
+        <note>Class = "UILabel"; text = "Put money:"; ObjectID = "Erz-8w-W7A";</note>
+      </trans-unit>
+      <trans-unit id="Etl-Df-yYH.text" xml:space="preserve">
+        <source>Comment:</source>
+        <target>Comment:</target>
+        <note>Class = "UILabel"; text = "Comment:"; ObjectID = "Etl-Df-yYH";</note>
+      </trans-unit>
+      <trans-unit id="Ezl-jV-PwW.text" xml:space="preserve">
+        <source>Spent money:</source>
+        <target>Spent money:</target>
+        <note>Class = "UILabel"; text = "Spent money:"; ObjectID = "Ezl-jV-PwW";</note>
+      </trans-unit>
+      <trans-unit id="Fsi-Kw-Czi.text" xml:space="preserve">
+        <source>Period from:</source>
+        <target>Period from:</target>
+        <note>Class = "UILabel"; text = "Period from:"; ObjectID = "Fsi-Kw-Czi";</note>
+      </trans-unit>
+      <trans-unit id="FyT-gE-tTo.text" xml:space="preserve">
+        <source>Total money:</source>
+        <target>Total money:</target>
+        <note>Class = "UILabel"; text = "Total money:"; ObjectID = "FyT-gE-tTo";</note>
+      </trans-unit>
+      <trans-unit id="G6o-2X-UGp.text" xml:space="preserve">
+        <source>Time to turn on:</source>
+        <target>Time to turn on:</target>
+        <note>Class = "UILabel"; text = "Time to turn on:"; ObjectID = "G6o-2X-UGp";</note>
+      </trans-unit>
+      <trans-unit id="Gqf-EO-fpk.text" xml:space="preserve">
+        <source>Select month:</source>
+        <target>Select month:</target>
+        <note>Class = "UILabel"; text = "Select month:"; ObjectID = "Gqf-EO-fpk";</note>
+      </trans-unit>
+      <trans-unit id="HTG-C7-2Pf.placeholder" xml:space="preserve">
+        <source>Pomp 1 working time</source>
+        <target>Pomp 1 working time</target>
+        <note>Class = "UITextField"; placeholder = "Pomp 1 working time"; ObjectID = "HTG-C7-2Pf";</note>
+      </trans-unit>
+      <trans-unit id="HiH-GN-lvF.text" xml:space="preserve">
+        <source>Total counter:</source>
+        <target>Total counter:</target>
+        <note>Class = "UILabel"; text = "Total counter:"; ObjectID = "HiH-GN-lvF";</note>
+      </trans-unit>
+      <trans-unit id="J4N-t5-Bv1.text" xml:space="preserve">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "J4N-t5-Bv1";</note>
+      </trans-unit>
+      <trans-unit id="J35-Qq-lSB.placeholder" xml:space="preserve">
+        <source>Name</source>
+        <target>Name</target>
+        <note>Class = "UITextField"; placeholder = "Name"; ObjectID = "J35-Qq-lSB";</note>
+      </trans-unit>
+      <trans-unit id="JGx-2E-xyP.text" xml:space="preserve">
+        <source>Login:</source>
+        <target>Login:</target>
+        <note>Class = "UILabel"; text = "Login:"; ObjectID = "JGx-2E-xyP";</note>
+      </trans-unit>
+      <trans-unit id="Jqt-9e-MWG.normalTitle" xml:space="preserve">
+        <source>Modes</source>
+        <target>Modes</target>
+        <note>Class = "UIButton"; normalTitle = "Modes"; ObjectID = "Jqt-9e-MWG";</note>
+      </trans-unit>
+      <trans-unit id="KRy-GN-YSw.text" xml:space="preserve">
+        <source>Select mode:</source>
+        <target>Select mode:</target>
+        <note>Class = "UILabel"; text = "Select mode:"; ObjectID = "KRy-GN-YSw";</note>
+      </trans-unit>
+      <trans-unit id="Lzr-AP-NhS.normalTitle" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Class = "UIButton"; normalTitle = "Login"; ObjectID = "Lzr-AP-NhS";</note>
+      </trans-unit>
+      <trans-unit id="NHK-Om-4wy.text" xml:space="preserve">
+        <source>Comment:</source>
+        <target>Comment:</target>
+        <note>Class = "UILabel"; text = "Comment:"; ObjectID = "NHK-Om-4wy";</note>
+      </trans-unit>
+      <trans-unit id="NJw-pg-Vli.text" xml:space="preserve">
+        <source>Name:</source>
+        <target>Name:</target>
+        <note>Class = "UILabel"; text = "Name:"; ObjectID = "NJw-pg-Vli";</note>
+      </trans-unit>
+      <trans-unit id="NWR-zA-f6P.text" xml:space="preserve">
+        <source>Pomp 1 working time:</source>
+        <target>Pomp 1 working time:</target>
+        <note>Class = "UILabel"; text = "Pomp 1 working time:"; ObjectID = "NWR-zA-f6P";</note>
+      </trans-unit>
+      <trans-unit id="NrC-MK-u8a.text" xml:space="preserve">
+        <source>Comment:</source>
+        <target>Comment:</target>
+        <note>Class = "UILabel"; text = "Comment:"; ObjectID = "NrC-MK-u8a";</note>
+      </trans-unit>
+      <trans-unit id="OFK-Pv-uUs.placeholder" xml:space="preserve">
+        <source>Free mode working time</source>
+        <target>Free mode working time</target>
+        <note>Class = "UITextField"; placeholder = "Free mode working time"; ObjectID = "OFK-Pv-uUs";</note>
+      </trans-unit>
+      <trans-unit id="PmW-0f-1ZI.text" xml:space="preserve">
+        <source>Period from</source>
+        <target>Period from</target>
+        <note>Class = "UILabel"; text = "Period from"; ObjectID = "PmW-0f-1ZI";</note>
+      </trans-unit>
+      <trans-unit id="Pvv-Qj-1NL.text" xml:space="preserve">
+        <source>Serial number:</source>
+        <target>Serial number:</target>
+        <note>Class = "UILabel"; text = "Serial number:"; ObjectID = "Pvv-Qj-1NL";</note>
+      </trans-unit>
+      <trans-unit id="RSg-kN-FJB.normalTitle" xml:space="preserve">
+        <source>Chart</source>
+        <target>Chart</target>
+        <note>Class = "UIButton"; normalTitle = "Chart"; ObjectID = "RSg-kN-FJB";</note>
+      </trans-unit>
+      <trans-unit id="SK3-I8-3D0.text" xml:space="preserve">
+        <source>Name:</source>
+        <target>Name:</target>
+        <note>Class = "UILabel"; text = "Name:"; ObjectID = "SK3-I8-3D0";</note>
+      </trans-unit>
+      <trans-unit id="Ssg-YE-Jpw.placeholder" xml:space="preserve">
+        <source>Password</source>
+        <target>Password</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "Ssg-YE-Jpw";</note>
+      </trans-unit>
+      <trans-unit id="Ssg-YE-Jpw.text" xml:space="preserve">
+        <source>dergav123</source>
+        <target>dergav123</target>
+        <note>Class = "UITextField"; text = "dergav123"; ObjectID = "Ssg-YE-Jpw";</note>
+      </trans-unit>
+      <trans-unit id="UFk-D0-oRx.text" xml:space="preserve">
+        <source>Free mode working time:</source>
+        <target>Free mode working time:</target>
+        <note>Class = "UILabel"; text = "Free mode working time:"; ObjectID = "UFk-D0-oRx";</note>
+      </trans-unit>
+      <trans-unit id="UcQ-08-CJ4.text" xml:space="preserve">
+        <source>Put money:</source>
+        <target>Put money:</target>
+        <note>Class = "UILabel"; text = "Put money:"; ObjectID = "UcQ-08-CJ4";</note>
+      </trans-unit>
+      <trans-unit id="VRx-Ce-rLM.text" xml:space="preserve">
+        <source>Name:</source>
+        <target>Name:</target>
+        <note>Class = "UILabel"; text = "Name:"; ObjectID = "VRx-Ce-rLM";</note>
+      </trans-unit>
+      <trans-unit id="VSm-cA-enl.title" xml:space="preserve">
+        <source>Expenses</source>
+        <target>Expenses</target>
+        <note>Class = "UITabBarItem"; title = "Expenses"; ObjectID = "VSm-cA-enl";</note>
+      </trans-unit>
+      <trans-unit id="WQa-0f-d4m.placeholder" xml:space="preserve">
+        <source>Login</source>
+        <target>Login</target>
+        <note>Class = "UITextField"; placeholder = "Login"; ObjectID = "WQa-0f-d4m";</note>
+      </trans-unit>
+      <trans-unit id="WQa-0f-d4m.text" xml:space="preserve">
+        <source>dergavinskaya_test</source>
+        <target>dergavinskaya_test</target>
+        <note>Class = "UITextField"; text = "dergavinskaya_test"; ObjectID = "WQa-0f-d4m";</note>
+      </trans-unit>
+      <trans-unit id="X2w-5C-sUL.title" xml:space="preserve">
+        <source>Posts</source>
+        <target>Posts</target>
+        <note>Class = "UITabBarItem"; title = "Posts"; ObjectID = "X2w-5C-sUL";</note>
+      </trans-unit>
+      <trans-unit id="Yl9-og-02Y.placeholder" xml:space="preserve">
+        <source>Comment</source>
+        <target>Comment</target>
+        <note>Class = "UITextField"; placeholder = "Comment"; ObjectID = "Yl9-og-02Y";</note>
+      </trans-unit>
+      <trans-unit id="ZMf-QK-ABz.text" xml:space="preserve">
+        <source>to</source>
+        <target>to</target>
+        <note>Class = "UILabel"; text = "to"; ObjectID = "ZMf-QK-ABz";</note>
+      </trans-unit>
+      <trans-unit id="a7s-el-GT6.text" xml:space="preserve">
+        <source>Password:</source>
+        <target>Password:</target>
+        <note>Class = "UILabel"; text = "Password:"; ObjectID = "a7s-el-GT6";</note>
+      </trans-unit>
+      <trans-unit id="aRb-5S-y2k.segmentTitles[0]" xml:space="preserve">
+        <source>Total chart</source>
+        <target>Total chart</target>
+        <note>Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[0] = "Total chart"; ObjectID = "aRb-5S-y2k";</note>
+      </trans-unit>
+      <trans-unit id="aRb-5S-y2k.segmentTitles[1]" xml:space="preserve">
+        <source>Total table</source>
+        <target>Total table</target>
+        <note>Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[1] = "Total table"; ObjectID = "aRb-5S-y2k";</note>
+      </trans-unit>
+      <trans-unit id="aRb-5S-y2k.segmentTitles[2]" xml:space="preserve">
+        <source>Car chart</source>
+        <target>Car chart</target>
+        <note>Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[2] = "Car chart"; ObjectID = "aRb-5S-y2k";</note>
+      </trans-unit>
+      <trans-unit id="aRb-5S-y2k.segmentTitles[3]" xml:space="preserve">
+        <source>Car table</source>
+        <target>Car table</target>
+        <note>Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[3] = "Car table"; ObjectID = "aRb-5S-y2k";</note>
+      </trans-unit>
+      <trans-unit id="apj-QI-jce.text" xml:space="preserve">
+        <source>Loan time:</source>
+        <target>Loan time:</target>
+        <note>Class = "UILabel"; text = "Loan time:"; ObjectID = "apj-QI-jce";</note>
+      </trans-unit>
+      <trans-unit id="ayG-co-il0.text" xml:space="preserve">
+        <source>Software version</source>
+        <target>Software version</target>
+        <note>Class = "UILabel"; text = "Software version"; ObjectID = "ayG-co-il0";</note>
+      </trans-unit>
+      <trans-unit id="baM-Ft-jaE.text" xml:space="preserve">
+        <source>Last connection:</source>
+        <target>Last connection:</target>
+        <note>Class = "UILabel"; text = "Last connection:"; ObjectID = "baM-Ft-jaE";</note>
+      </trans-unit>
+      <trans-unit id="bwL-uH-p9v.text" xml:space="preserve">
+        <source>Encashment money:</source>
+        <target>Encashment money:</target>
+        <note>Class = "UILabel"; text = "Encashment money:"; ObjectID = "bwL-uH-p9v";</note>
+      </trans-unit>
+      <trans-unit id="bzQ-Ox-fG7.text" xml:space="preserve">
+        <source>Description:</source>
+        <target>Description:</target>
+        <note>Class = "UILabel"; text = "Description:"; ObjectID = "bzQ-Ox-fG7";</note>
+      </trans-unit>
+      <trans-unit id="dzx-X2-tU7.text" xml:space="preserve">
+        <source>Id</source>
+        <target>Id</target>
+        <note>Class = "UILabel"; text = "Id"; ObjectID = "dzx-X2-tU7";</note>
+      </trans-unit>
+      <trans-unit id="fCf-td-wp5.text" xml:space="preserve">
+        <source>Encashment money:</source>
+        <target>Encashment money:</target>
+        <note>Class = "UILabel"; text = "Encashment money:"; ObjectID = "fCf-td-wp5";</note>
+      </trans-unit>
+      <trans-unit id="fkd-Ft-dzA.text" xml:space="preserve">
+        <source>Description:</source>
+        <target>Description:</target>
+        <note>Class = "UILabel"; text = "Description:"; ObjectID = "fkd-Ft-dzA";</note>
+      </trans-unit>
+      <trans-unit id="hpY-jn-eNf.normalTitle" xml:space="preserve">
+        <source>Info</source>
+        <target>Info</target>
+        <note>Class = "UIButton"; normalTitle = "Info"; ObjectID = "hpY-jn-eNf";</note>
+      </trans-unit>
+      <trans-unit id="ibA-fb-1Ym.text" xml:space="preserve">
+        <source>Serial number:</source>
+        <target>Serial number:</target>
+        <note>Class = "UILabel"; text = "Serial number:"; ObjectID = "ibA-fb-1Ym";</note>
+      </trans-unit>
+      <trans-unit id="kbC-KV-Occ.text" xml:space="preserve">
+        <source>Select:</source>
+        <target>Select:</target>
+        <note>Class = "UILabel"; text = "Select:"; ObjectID = "kbC-KV-Occ";</note>
+      </trans-unit>
+      <trans-unit id="l8e-jX-cgb.text" xml:space="preserve">
+        <source>Minute cost:</source>
+        <target>Minute cost:</target>
+        <note>Class = "UILabel"; text = "Minute cost:"; ObjectID = "l8e-jX-cgb";</note>
+      </trans-unit>
+      <trans-unit id="lh7-cw-xyu.text" xml:space="preserve">
+        <source>to:</source>
+        <target>to:</target>
+        <note>Class = "UILabel"; text = "to:"; ObjectID = "lh7-cw-xyu";</note>
+      </trans-unit>
+      <trans-unit id="m9g-dz-elY.text" xml:space="preserve">
+        <source>Description:</source>
+        <target>Description:</target>
+        <note>Class = "UILabel"; text = "Description:"; ObjectID = "m9g-dz-elY";</note>
+      </trans-unit>
+      <trans-unit id="nt5-ut-1em.text" xml:space="preserve">
+        <source>Last connection</source>
+        <target>Last connection</target>
+        <note>Class = "UILabel"; text = "Last connection"; ObjectID = "nt5-ut-1em";</note>
+      </trans-unit>
+      <trans-unit id="oud-vW-Buh.text" xml:space="preserve">
+        <source>Working time:</source>
+        <target>Working time:</target>
+        <note>Class = "UILabel"; text = "Working time:"; ObjectID = "oud-vW-Buh";</note>
+      </trans-unit>
+      <trans-unit id="q2T-aq-RLX.normalTitle" xml:space="preserve">
+        <source>Automodes</source>
+        <target>Automodes</target>
+        <note>Class = "UIButton"; normalTitle = "Automodes"; ObjectID = "q2T-aq-RLX";</note>
+      </trans-unit>
+      <trans-unit id="qoP-CR-h7H.placeholder" xml:space="preserve">
+        <source>Serial number</source>
+        <target>Serial number</target>
+        <note>Class = "UITextField"; placeholder = "Serial number"; ObjectID = "qoP-CR-h7H";</note>
+      </trans-unit>
+      <trans-unit id="rG8-hl-bdv.text" xml:space="preserve">
+        <source>Water consumption:</source>
+        <target>Water consumption:</target>
+        <note>Class = "UILabel"; text = "Water consumption:"; ObjectID = "rG8-hl-bdv";</note>
+      </trans-unit>
+      <trans-unit id="rpl-kZ-xIi.text" xml:space="preserve">
+        <source>Discount money:</source>
+        <target>Discount money:</target>
+        <note>Class = "UILabel"; text = "Discount money:"; ObjectID = "rpl-kZ-xIi";</note>
+      </trans-unit>
+      <trans-unit id="xHA-rV-d3R.text" xml:space="preserve">
+        <source>Serial number:</source>
+        <target>Serial number:</target>
+        <note>Class = "UILabel"; text = "Serial number:"; ObjectID = "xHA-rV-d3R";</note>
+      </trans-unit>
+      <trans-unit id="xyv-oB-74m.text" xml:space="preserve">
+        <source>State</source>
+        <target>State</target>
+        <note>Class = "UILabel"; text = "State"; ObjectID = "xyv-oB-74m";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DeWash/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.4.1" build-num="11E503a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>DeWash</source>
+        <target>DeWash</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DeWash/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.4.1" build-num="11E503a"/>
+    </header>
+    <body>
+      <trans-unit id="&#10;Total money: " xml:space="preserve">
+        <source>
+Total money: </source>
+        <target>
+Total money: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" month " xml:space="preserve">
+        <source> month </source>
+        <target> month </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id=" year" xml:space="preserve">
+        <source> year</source>
+        <target> year</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional equipment" xml:space="preserve">
+        <source>Additional equipment</source>
+        <target>Additional equipment</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 1" xml:space="preserve">
+        <source>Additional field 1</source>
+        <target>Additional field 1</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 2" xml:space="preserve">
+        <source>Additional field 2</source>
+        <target>Additional field 2</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 3" xml:space="preserve">
+        <source>Additional field 3</source>
+        <target>Additional field 3</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 4" xml:space="preserve">
+        <source>Additional field 4</source>
+        <target>Additional field 4</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 5" xml:space="preserve">
+        <source>Additional field 5</source>
+        <target>Additional field 5</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 6" xml:space="preserve">
+        <source>Additional field 6</source>
+        <target>Additional field 6</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 7" xml:space="preserve">
+        <source>Additional field 7</source>
+        <target>Additional field 7</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 8" xml:space="preserve">
+        <source>Additional field 8</source>
+        <target>Additional field 8</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 9" xml:space="preserve">
+        <source>Additional field 9</source>
+        <target>Additional field 9</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Additional field 10" xml:space="preserve">
+        <source>Additional field 10</source>
+        <target>Additional field 10</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Average bill" xml:space="preserve">
+        <source>Average bill</source>
+        <target>Average bill</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Car numbers" xml:space="preserve">
+        <source>Car numbers</source>
+        <target>Car numbers</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chemistry" xml:space="preserve">
+        <source>Chemistry</source>
+        <target>Chemistry</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chemistry consumption" xml:space="preserve">
+        <source>Chemistry consumption</source>
+        <target>Chemistry consumption</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Consumption" xml:space="preserve">
+        <source>Consumption</source>
+        <target>Consumption</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>Done</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electricity" xml:space="preserve">
+        <source>Electricity</source>
+        <target>Electricity</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electricity (calculation)" xml:space="preserve">
+        <source>Electricity (calculation)</source>
+        <target>Electricity (calculation)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electricity (consumption)" xml:space="preserve">
+        <source>Electricity (consumption)</source>
+        <target>Electricity (consumption)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electricity (cost)" xml:space="preserve">
+        <source>Electricity (cost)</source>
+        <target>Electricity (cost)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Electricity consumption" xml:space="preserve">
+        <source>Electricity consumption</source>
+        <target>Electricity consumption</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encashment money: " xml:space="preserve">
+        <source>Encashment money: </source>
+        <target>Encashment money: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Expenses" xml:space="preserve">
+        <source>Expenses</source>
+        <target>Expenses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last connection: " xml:space="preserve">
+        <source>Last connection: </source>
+        <target>Last connection: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Message" xml:space="preserve">
+        <source>Message</source>
+        <target>Message</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Money" xml:space="preserve">
+        <source>Money</source>
+        <target>Money</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password is empty" xml:space="preserve">
+        <source>Password is empty</source>
+        <target>Password is empty</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Period for " xml:space="preserve">
+        <source>Period for </source>
+        <target>Period for </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Promotions" xml:space="preserve">
+        <source>Promotions</source>
+        <target>Promotions</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Put money:" xml:space="preserve">
+        <source>Put money:</source>
+        <target>Put money:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Put money: " xml:space="preserve">
+        <source>Put money: </source>
+        <target>Put money: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rent" xml:space="preserve">
+        <source>Rent</source>
+        <target>Rent</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Request error" xml:space="preserve">
+        <source>Request error</source>
+        <target>Request error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Salary" xml:space="preserve">
+        <source>Salary</source>
+        <target>Salary</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Spent money" xml:space="preserve">
+        <source>Spent money</source>
+        <target>Spent money</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sum" xml:space="preserve">
+        <source>Sum</source>
+        <target>Sum</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Time" xml:space="preserve">
+        <source>Time</source>
+        <target>Time</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total expenses" xml:space="preserve">
+        <source>Total expenses</source>
+        <target>Total expenses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total money: " xml:space="preserve">
+        <source>Total money: </source>
+        <target>Total money: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total posts calculation: &#10;Put money: 0.0&#10;Encashment money: " xml:space="preserve">
+        <source>Total posts calculation: 
+Put money: 0.0
+Encashment money: </source>
+        <target>Total posts calculation: 
+Put money: 0.0
+Encashment money: </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User name is empty" xml:space="preserve">
+        <source>User name is empty</source>
+        <target>User name is empty</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="User name not found" xml:space="preserve">
+        <source>User name not found</source>
+        <target>User name not found</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Water consumption" xml:space="preserve">
+        <source>Water consumption</source>
+        <target>Water consumption</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Water+drain" xml:space="preserve">
+        <source>Water+drain</source>
+        <target>Water+drain</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Water+drain (calculation)" xml:space="preserve">
+        <source>Water+drain (calculation)</source>
+        <target>Water+drain (calculation)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Water+drain (cost)" xml:space="preserve">
+        <source>Water+drain (cost)</source>
+        <target>Water+drain (cost)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Water, drain (consumption)" xml:space="preserve">
+        <source>Water, drain (consumption)</source>
+        <target>Water, drain (consumption)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Working time" xml:space="preserve">
+        <source>Working time</source>
+        <target>Working time</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Wrong password" xml:space="preserve">
+        <source>Wrong password</source>
+        <target>Wrong password</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="kWt" xml:space="preserve">
+        <source>kWt</source>
+        <target>kWt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="l" xml:space="preserve">
+        <source>l</source>
+        <target>l</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="m3" xml:space="preserve">
+        <source>m3</source>
+        <target>m3</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="num" xml:space="preserve">
+        <source>num</source>
+        <target>num</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="uah" xml:space="preserve">
+        <source>uah</source>
+        <target>uah</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="uah/kWt" xml:space="preserve">
+        <source>uah/kWt</source>
+        <target>uah/kWt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="uah/m3" xml:space="preserve">
+        <source>uah/m3</source>
+        <target>uah/m3</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
