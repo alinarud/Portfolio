@@ -1,0 +1,213 @@
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "0rh-Y5-V2q"; */
+"0rh-Y5-V2q.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "Pomp 2 working time:"; ObjectID = "1ML-wN-tna"; */
+"1ML-wN-tna.text" = "Pomp 2 working time:";
+
+/* Class = "UITextField"; placeholder = "pomp 2 working time"; ObjectID = "38h-np-Ia3"; */
+"38h-np-Ia3.placeholder" = "pomp 2 working time";
+
+/* Class = "UILabel"; text = "Electricity consumption:"; ObjectID = "5kB-fI-ci3"; */
+"5kB-fI-ci3.text" = "Electricity consumption:";
+
+/* Class = "UILabel"; text = "Working time:"; ObjectID = "7oh-Me-ojh"; */
+"7oh-Me-ojh.text" = "Working time:";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "Ard-6Y-KTu"; */
+"Ard-6Y-KTu.text" = "State";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "B4x-cE-rxL"; */
+"B4x-cE-rxL.text" = "State";
+
+/* Class = "UILabel"; text = "Chemistry consumption:"; ObjectID = "BMO-1o-yDV"; */
+"BMO-1o-yDV.text" = "Chemistry consumption:";
+
+/* Class = "UILabel"; text = "Select automode:"; ObjectID = "Eeb-4a-48X"; */
+"Eeb-4a-48X.text" = "Select automode:";
+
+/* Class = "UILabel"; text = "Put money:"; ObjectID = "Erz-8w-W7A"; */
+"Erz-8w-W7A.text" = "Put money:";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "Etl-Df-yYH"; */
+"Etl-Df-yYH.text" = "Comment:";
+
+/* Class = "UILabel"; text = "Spent money:"; ObjectID = "Ezl-jV-PwW"; */
+"Ezl-jV-PwW.text" = "Spent money:";
+
+/* Class = "UILabel"; text = "Period from:"; ObjectID = "Fsi-Kw-Czi"; */
+"Fsi-Kw-Czi.text" = "Period from:";
+
+/* Class = "UILabel"; text = "Total money:"; ObjectID = "FyT-gE-tTo"; */
+"FyT-gE-tTo.text" = "Total money:";
+
+/* Class = "UILabel"; text = "Time to turn on:"; ObjectID = "G6o-2X-UGp"; */
+"G6o-2X-UGp.text" = "Time to turn on:";
+
+/* Class = "UILabel"; text = "Select month:"; ObjectID = "Gqf-EO-fpk"; */
+"Gqf-EO-fpk.text" = "Select month:";
+
+/* Class = "UITextField"; placeholder = "Pomp 1 working time"; ObjectID = "HTG-C7-2Pf"; */
+"HTG-C7-2Pf.placeholder" = "Pomp 1 working time";
+
+/* Class = "UILabel"; text = "Total counter:"; ObjectID = "HiH-GN-lvF"; */
+"HiH-GN-lvF.text" = "Total counter:";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "J35-Qq-lSB"; */
+"J35-Qq-lSB.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "J4N-t5-Bv1"; */
+"J4N-t5-Bv1.text" = "Name";
+
+/* Class = "UILabel"; text = "Login:"; ObjectID = "JGx-2E-xyP"; */
+"JGx-2E-xyP.text" = "Login:";
+
+/* Class = "UIButton"; normalTitle = "Modes"; ObjectID = "Jqt-9e-MWG"; */
+"Jqt-9e-MWG.normalTitle" = "Modes";
+
+/* Class = "UILabel"; text = "Select mode:"; ObjectID = "KRy-GN-YSw"; */
+"KRy-GN-YSw.text" = "Select mode:";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Lzr-AP-NhS"; */
+"Lzr-AP-NhS.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "NHK-Om-4wy"; */
+"NHK-Om-4wy.text" = "Comment:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "NJw-pg-Vli"; */
+"NJw-pg-Vli.text" = "Name:";
+
+/* Class = "UILabel"; text = "Pomp 1 working time:"; ObjectID = "NWR-zA-f6P"; */
+"NWR-zA-f6P.text" = "Pomp 1 working time:";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "NrC-MK-u8a"; */
+"NrC-MK-u8a.text" = "Comment:";
+
+/* Class = "UITextField"; placeholder = "Free mode working time"; ObjectID = "OFK-Pv-uUs"; */
+"OFK-Pv-uUs.placeholder" = "Free mode working time";
+
+/* Class = "UILabel"; text = "Period from"; ObjectID = "PmW-0f-1ZI"; */
+"PmW-0f-1ZI.text" = "Period from";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "Pvv-Qj-1NL"; */
+"Pvv-Qj-1NL.text" = "Serial number:";
+
+/* Class = "UIButton"; normalTitle = "Chart"; ObjectID = "RSg-kN-FJB"; */
+"RSg-kN-FJB.normalTitle" = "Chart";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "SK3-I8-3D0"; */
+"SK3-I8-3D0.text" = "Name:";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Ssg-YE-Jpw"; */
+"Ssg-YE-Jpw.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Free mode working time:"; ObjectID = "UFk-D0-oRx"; */
+"UFk-D0-oRx.text" = "Free mode working time:";
+
+/* Class = "UILabel"; text = "Put money:"; ObjectID = "UcQ-08-CJ4"; */
+"UcQ-08-CJ4.text" = "Put money:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "VRx-Ce-rLM"; */
+"VRx-Ce-rLM.text" = "Name:";
+
+/* Class = "UITabBarItem"; title = "Expenses"; ObjectID = "VSm-cA-enl"; */
+"VSm-cA-enl.title" = "Expenses";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "WQa-0f-d4m"; */
+"WQa-0f-d4m.placeholder" = "Login";
+
+/* Class = "UITabBarItem"; title = "Posts"; ObjectID = "X2w-5C-sUL"; */
+"X2w-5C-sUL.title" = "Posts";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "X7u-mX-0kj"; */
+"X7u-mX-0kj.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "Yl9-og-02Y"; */
+"Yl9-og-02Y.placeholder" = "Comment";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "ZMf-QK-ABz"; */
+"ZMf-QK-ABz.text" = "to";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "a7s-el-GT6"; */
+"a7s-el-GT6.text" = "Password:";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[0] = "Total chart"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[0]" = "Total chart";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[1] = "Total table"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[1]" = "Total table";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[2] = "Car chart"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[2]" = "Car chart";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[3] = "Car table"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[3]" = "Car table";
+
+/* Class = "UILabel"; text = "Loan time:"; ObjectID = "apj-QI-jce"; */
+"apj-QI-jce.text" = "Loan time:";
+
+/* Class = "UILabel"; text = "Software version"; ObjectID = "ayG-co-il0"; */
+"ayG-co-il0.text" = "Software version";
+
+/* Class = "UILabel"; text = "Last connection:"; ObjectID = "baM-Ft-jaE"; */
+"baM-Ft-jaE.text" = "Last connection:";
+
+/* Class = "UILabel"; text = "Encashment money:"; ObjectID = "bwL-uH-p9v"; */
+"bwL-uH-p9v.text" = "Encashment money:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "bzQ-Ox-fG7"; */
+"bzQ-Ox-fG7.text" = "Description:";
+
+/* Class = "UILabel"; text = "Id"; ObjectID = "dzx-X2-tU7"; */
+"dzx-X2-tU7.text" = "Id";
+
+/* Class = "UILabel"; text = "Encashment money:"; ObjectID = "fCf-td-wp5"; */
+"fCf-td-wp5.text" = "Encashment money:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "fkd-Ft-dzA"; */
+"fkd-Ft-dzA.text" = "Description:";
+
+/* Class = "UIButton"; normalTitle = "Info"; ObjectID = "hpY-jn-eNf"; */
+"hpY-jn-eNf.normalTitle" = "Info";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "ibA-fb-1Ym"; */
+"ibA-fb-1Ym.text" = "Serial number:";
+
+/* Class = "UILabel"; text = "Select:"; ObjectID = "kbC-KV-Occ"; */
+"kbC-KV-Occ.text" = "Select:";
+
+/* Class = "UILabel"; text = "Minute cost:"; ObjectID = "l8e-jX-cgb"; */
+"l8e-jX-cgb.text" = "Minute cost:";
+
+/* Class = "UILabel"; text = "to:"; ObjectID = "lh7-cw-xyu"; */
+"lh7-cw-xyu.text" = "to:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "m9g-dz-elY"; */
+"m9g-dz-elY.text" = "Description:";
+
+/* Class = "UILabel"; text = "Last connection"; ObjectID = "nt5-ut-1em"; */
+"nt5-ut-1em.text" = "Last connection";
+
+/* Class = "UILabel"; text = "Working time:"; ObjectID = "oud-vW-Buh"; */
+"oud-vW-Buh.text" = "Working time:";
+
+/* Class = "UIButton"; normalTitle = "Automodes"; ObjectID = "q2T-aq-RLX"; */
+"q2T-aq-RLX.normalTitle" = "Automodes";
+
+/* Class = "UITextField"; placeholder = "Serial number"; ObjectID = "qoP-CR-h7H"; */
+"qoP-CR-h7H.placeholder" = "Serial number";
+
+/* Class = "UILabel"; text = "Water consumption:"; ObjectID = "rG8-hl-bdv"; */
+"rG8-hl-bdv.text" = "Water consumption:";
+
+/* Class = "UILabel"; text = "Discount money:"; ObjectID = "rpl-kZ-xIi"; */
+"rpl-kZ-xIi.text" = "Discount money:";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "uSz-xD-noF"; */
+"uSz-xD-noF.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "xHA-rV-d3R"; */
+"xHA-rV-d3R.text" = "Serial number:";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "xyv-oB-74m"; */
+"xyv-oB-74m.text" = "State";

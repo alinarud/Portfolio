@@ -1,0 +1,244 @@
+
+
+"CFBundleDisplayName" = "DeWash Мониторинг";
+
+
+/* No comment provided by engineer. */
+" month " = " месяц ";
+
+/* No comment provided by engineer. */
+" year" = " год";
+
+/* No comment provided by engineer. */
+"Additional equipment" = "Доп. оборудование";
+
+/* No comment provided by engineer. */
+"Additional field 1" = "Дополнительное поле 1";
+
+/* No comment provided by engineer. */
+"Additional field 2" = "Дополнительное поле 2";
+
+/* No comment provided by engineer. */
+"Additional field 3" = "Дополнительное поле 3";
+
+/* No comment provided by engineer. */
+"Additional field 4" = "Дополнительное поле 4";
+
+/* No comment provided by engineer. */
+"Additional field 5" = "Дополнительное поле 5";
+
+/* No comment provided by engineer. */
+"Additional field 6" = "Дополнительное поле 6";
+
+/* No comment provided by engineer. */
+"Additional field 7" = "Дополнительное поле 7";
+
+/* No comment provided by engineer. */
+"Additional field 8" = "Дополнительное поле 8";
+
+/* No comment provided by engineer. */
+"Additional field 9" = "Дополнительное поле 9";
+
+/* No comment provided by engineer. */
+"Additional field 10" = "Дополнительное поле 10";
+
+/* No comment provided by engineer. */
+"Average bill" = "Средний чек";
+
+/* No comment provided by engineer. */
+"Car numbers" = "Количество машин";
+
+/* No comment provided by engineer. */
+"Chemistry" = "Химия";
+
+/* No comment provided by engineer. */
+"Chemistry consumption" = "Расход химии";
+
+/* No comment provided by engineer. */
+"Consumption" = "Расход";
+
+/* No comment provided by engineer. */
+"Done" = "Применить";
+
+/* No comment provided by engineer. */
+"Electricity" = "Эл.энергия";
+
+/* No comment provided by engineer. */
+"Electricity (calculation)" = "Эл.энергия(расчет)";
+
+/* No comment provided by engineer. */
+"Electricity (consumption)" = "Эл.энергия(расход)";
+
+/* No comment provided by engineer. */
+"Electricity (cost)" = "Эл.энергия(стоимость)";
+
+/* No comment provided by engineer. */
+"Electricity consumption" = "Расход эл.энергии";
+
+/* No comment provided by engineer. */
+"Encashment money: " = "ВДС с момента инкассации:";
+
+/* No comment provided by engineer. */
+"Expenses" = "Расходы";
+
+/* No comment provided by engineer. */
+"kWt" = "кВт";
+
+/* No comment provided by engineer. */
+"l" = "л.";
+
+/* No comment provided by engineer. */
+"Last connection: " = "Последнее соединение: ";
+
+/* No comment provided by engineer. */
+"m3" = "м3";
+
+/* No comment provided by engineer. */
+"Message" = "Сообщение";
+
+/* No comment provided by engineer. */
+"Money" = "Внесенные денежный средства";
+
+/* No comment provided by engineer. */
+"num" = "шт.";
+
+/* No comment provided by engineer. */
+"OK" = "ОК";
+
+/* No comment provided by engineer. */
+"Password is empty" = "Введите пароль";
+
+/* No comment provided by engineer. */
+"Period for " = "Период от ";
+
+/* No comment provided by engineer. */
+"Promotions" = "Промоакции";
+
+/* No comment provided by engineer. */
+"Put money:" = "Внесенные денежные средства(ВДС):";
+
+/* No comment provided by engineer. */
+"Put money: " = "Внесенные денежные средства(ВДС): ";
+
+/* No comment provided by engineer. */
+"Rent" = "Аренда";
+
+/* No comment provided by engineer. */
+"Request error" = "Ошибка в запросе к серверу";
+
+/* No comment provided by engineer. */
+"Salary" = "ЗП сотрудников";
+
+/* No comment provided by engineer. */
+"Spent money" = "Потраченные денежные средства";
+
+/* No comment provided by engineer. */
+"Sum" = "Сумма";
+
+/* No comment provided by engineer. */
+"Time" = "Время";
+
+/* No comment provided by engineer. */
+"Total expenses" = "Общие расходы";
+
+/* No comment provided by engineer. */
+"Total money: " = "Общий счетчик: ";
+
+/* No comment provided by engineer. */
+"Total posts calculation: \nPut money: 0.0\nEncashment money: " = "Общий расчет по данным постам:\nВнесенные денежные средства (ВДС): 0.0\nВДС с момента инкассации: ";
+
+/* No comment provided by engineer. */
+"uah" = "грн";
+
+/* No comment provided by engineer. */
+"uah/kWt" = "грн/кВт";
+
+/* No comment provided by engineer. */
+"uah/m3" = "грн/м3";
+
+/* No comment provided by engineer. */
+"User name is empty" = "Введите имя пользователя";
+
+/* No comment provided by engineer. */
+"User name not found" = "Имя пользователя не зарегестрировано на сервере";
+
+/* No comment provided by engineer. */
+"Water consumption" = "Расход воды";
+
+/* No comment provided by engineer. */
+"Water, drain (consumption)" = "Вода+канализация(расход)";
+
+/* No comment provided by engineer. */
+"Water+drain" = "Вода+канализация";
+
+/* No comment provided by engineer. */
+"Water+drain (calculation)" = "Вода+канализация(расчет)";
+
+/* No comment provided by engineer. */
+"Water+drain (cost)" = "Вода+канализация(стоимость)";
+
+/* No comment provided by engineer. */
+"Working time" = "Время работы";
+
+/* No comment provided by engineer. */
+"Wrong password" = "Неправильный пароль";
+
+/* No comment provided by engineer. */
+"water_presure" = "Вода под давлением";
+
+/* No comment provided by engineer. */
+"vacuum_cleaner" = "Пылесос";
+
+/* No comment provided by engineer. */
+"disk_clean" = "Мойка дисков";
+
+/* No comment provided by engineer. */
+"foam" = "Пена";
+
+/* No comment provided by engineer. */
+"hand_water" = "Вода для рук";
+
+/* No comment provided by engineer. */
+"winter" = "Зима";
+
+/* No comment provided by engineer. */
+"vax" = "Воск";
+
+/* No comment provided by engineer. */
+"air" = "Обдув воздухом";
+
+/* No comment provided by engineer. */
+"carpet_clean" = "Мойка ковриков";
+
+/* No comment provided by engineer. */
+"osmosis" = "Осмос";
+
+/* No comment provided by engineer. */
+"tire" = "Подкачка шин";
+
+/* No comment provided by engineer. */
+"warm_water" = "Теплая вода";
+
+/* No comment provided by engineer. */
+"antimoshka" = "Антимошка";
+
+/* No comment provided by engineer. */
+"Title" = "Название";
+
+/* No comment provided by engineer. */
+"Value" = "Значение";
+
+/* No comment provided by engineer. */
+"Units" = "Мера";
+
+/* No comment provided by engineer. */
+"Update" = "Обновить";
+
+/* No comment provided by engineer. */
+"Save" = "Сохранить";
+
+"Cancel" = "Отмена";
+
+"\nTotal money: " = "\nОбщий счетчик:";
+
+"Exit" = "Выйти";

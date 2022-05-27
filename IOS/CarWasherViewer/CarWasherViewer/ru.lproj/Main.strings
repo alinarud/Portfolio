@@ -1,0 +1,218 @@
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "0rh-Y5-V2q"; */
+"0rh-Y5-V2q.placeholder" = "Описание";
+
+/* Class = "UILabel"; text = "Pomp 2 working time:"; ObjectID = "1ML-wN-tna"; */
+"1ML-wN-tna.text" = "Время наработки помпы 2:";
+
+/* Class = "UILabel"; text = "Electricity consumption:"; ObjectID = "5kB-fI-ci3"; */
+"5kB-fI-ci3.text" = "Расход эл.энергии:";
+
+/* Class = "UILabel"; text = "Working time:"; ObjectID = "7oh-Me-ojh"; */
+"7oh-Me-ojh.text" = "Время работы:";
+
+/* Class = "UITextField"; placeholder = "pomp 2 working time"; ObjectID = "38h-np-Ia3"; */
+"38h-np-Ia3.placeholder" = "Время наработки помпы 2";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "a7s-el-GT6"; */
+"a7s-el-GT6.text" = "Пароль:";
+
+/* Class = "UILabel"; text = "Loan time:"; ObjectID = "apj-QI-jce"; */
+"apj-QI-jce.text" = "Время до начала списания кредита:";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[0] = "Total chart"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[0]" = "Общие (график)";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[1] = "Total table"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[1]" = "Общие (таблица)";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[2] = "Car chart"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[2]" = "На 1 машину (график)";
+
+/* Class = "UISegmentedControl"; aRb-5S-y2k.segmentTitles[3] = "Car table"; ObjectID = "aRb-5S-y2k"; */
+"aRb-5S-y2k.segmentTitles[3]" = "На 1 машину (таблица)";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "Ard-6Y-KTu"; */
+"Ard-6Y-KTu.text" = "Состояние";
+
+/* Class = "UILabel"; text = "Software version"; ObjectID = "ayG-co-il0"; */
+"ayG-co-il0.text" = "Версия ПО";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "B4x-cE-rxL"; */
+"B4x-cE-rxL.text" = "Состояние";
+
+/* Class = "UILabel"; text = "Last connection:"; ObjectID = "baM-Ft-jaE"; */
+"baM-Ft-jaE.text" = "Последнее соединение:";
+
+/* Class = "UILabel"; text = "Chemistry consumption:"; ObjectID = "BMO-1o-yDV"; */
+"BMO-1o-yDV.text" = "Расход химии:";
+
+/* Class = "UILabel"; text = "Encashment money:"; ObjectID = "bwL-uH-p9v"; */
+"bwL-uH-p9v.text" = "ВДС с момента инкассации:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "bzQ-Ox-fG7"; */
+"bzQ-Ox-fG7.text" = "Описание:";
+
+/* Class = "UILabel"; text = "Id"; ObjectID = "dzx-X2-tU7"; */
+"dzx-X2-tU7.text" = "Id";
+
+/* Class = "UILabel"; text = "Select automode:"; ObjectID = "Eeb-4a-48X"; */
+"Eeb-4a-48X.text" = "Выберите авторежим:";
+
+/* Class = "UILabel"; text = "Put money:"; ObjectID = "Erz-8w-W7A"; */
+"Erz-8w-W7A.text" = "Внесенные денежные средства(ВДС):";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "Etl-Df-yYH"; */
+"Etl-Df-yYH.text" = "Комментарий:";
+
+/* Class = "UILabel"; text = "Spent money:"; ObjectID = "Ezl-jV-PwW"; */
+"Ezl-jV-PwW.text" = "Потраченные денежные средства:";
+
+/* Class = "UILabel"; text = "Encashment money:"; ObjectID = "fCf-td-wp5"; */
+"fCf-td-wp5.text" = "ВДС с момента инкассации:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "fkd-Ft-dzA"; */
+"fkd-Ft-dzA.text" = "Описание:";
+
+/* Class = "UILabel"; text = "Period from:"; ObjectID = "Fsi-Kw-Czi"; */
+"Fsi-Kw-Czi.text" = "Период от:";
+
+/* Class = "UILabel"; text = "Total money:"; ObjectID = "FyT-gE-tTo"; */
+"FyT-gE-tTo.text" = "Общий счетчик:";
+
+/* Class = "UILabel"; text = "Time to turn on:"; ObjectID = "G6o-2X-UGp"; */
+"G6o-2X-UGp.text" = "Время до включения:";
+
+/* Class = "UILabel"; text = "Select month:"; ObjectID = "Gqf-EO-fpk"; */
+"Gqf-EO-fpk.text" = "Выберите месяц:";
+
+/* Class = "UILabel"; text = "Total counter:"; ObjectID = "HiH-GN-lvF"; */
+"HiH-GN-lvF.text" = "Общий счетчик:";
+
+/* Class = "UIButton"; normalTitle = "Info"; ObjectID = "hpY-jn-eNf"; */
+"hpY-jn-eNf.normalTitle" = "Информация";
+
+/* Class = "UITextField"; placeholder = "Pomp 1 working time"; ObjectID = "HTG-C7-2Pf"; */
+"HTG-C7-2Pf.placeholder" = "Время наработки помпы 1";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "ibA-fb-1Ym"; */
+"ibA-fb-1Ym.text" = "Серийный номер:";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "J4N-t5-Bv1"; */
+"J4N-t5-Bv1.text" = "Название";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "J35-Qq-lSB"; */
+"J35-Qq-lSB.placeholder" = "Название";
+
+/* Class = "UILabel"; text = "Login:"; ObjectID = "JGx-2E-xyP"; */
+"JGx-2E-xyP.text" = "Логин:";
+
+/* Class = "UIButton"; normalTitle = "Modes"; ObjectID = "Jqt-9e-MWG"; */
+"Jqt-9e-MWG.normalTitle" = "Режимы";
+
+/* Class = "UILabel"; text = "Select:"; ObjectID = "kbC-KV-Occ"; */
+"kbC-KV-Occ.text" = "Выберите:";
+
+/* Class = "UILabel"; text = "Select mode:"; ObjectID = "KRy-GN-YSw"; */
+"KRy-GN-YSw.text" = "Выберите режим:";
+
+/* Class = "UILabel"; text = "Minute cost:"; ObjectID = "l8e-jX-cgb"; */
+"l8e-jX-cgb.text" = "Стоимость минуты работы:";
+
+/* Class = "UILabel"; text = "to:"; ObjectID = "lh7-cw-xyu"; */
+"lh7-cw-xyu.text" = "до:";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Lzr-AP-NhS"; */
+"Lzr-AP-NhS.normalTitle" = "Войти";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "m9g-dz-elY"; */
+"m9g-dz-elY.text" = "Описание:";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "NHK-Om-4wy"; */
+"NHK-Om-4wy.text" = "Comment:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "NJw-pg-Vli"; */
+"NJw-pg-Vli.text" = "Название:";
+
+/* Class = "UILabel"; text = "Comment:"; ObjectID = "NrC-MK-u8a"; */
+"NrC-MK-u8a.text" = "Комментарий:";
+
+/* Class = "UILabel"; text = "Last connection"; ObjectID = "nt5-ut-1em"; */
+"nt5-ut-1em.text" = "Последнее соединение";
+
+/* Class = "UILabel"; text = "Pomp 1 working time:"; ObjectID = "NWR-zA-f6P"; */
+"NWR-zA-f6P.text" = "Время наработки помпы 1:";
+
+/* Class = "UITextField"; placeholder = "Free mode working time"; ObjectID = "OFK-Pv-uUs"; */
+"OFK-Pv-uUs.placeholder" = "Время работы бесплатного режима";
+
+/* Class = "UILabel"; text = "Working time:"; ObjectID = "oud-vW-Buh"; */
+"oud-vW-Buh.text" = "Время работы:";
+
+/* Class = "UILabel"; text = "Period from"; ObjectID = "PmW-0f-1ZI"; */
+"PmW-0f-1ZI.text" = "Период от";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "Pvv-Qj-1NL"; */
+"Pvv-Qj-1NL.text" = "Серийный номер:";
+
+/* Class = "UIButton"; normalTitle = "Automodes"; ObjectID = "q2T-aq-RLX"; */
+"q2T-aq-RLX.normalTitle" = "Авторежимы";
+
+/* Class = "UITextField"; placeholder = "Serial number"; ObjectID = "qoP-CR-h7H"; */
+"qoP-CR-h7H.placeholder" = "Серийный номер";
+
+/* Class = "UILabel"; text = "Water consumption:"; ObjectID = "rG8-hl-bdv"; */
+"rG8-hl-bdv.text" = "Расход воды:";
+
+/* Class = "UILabel"; text = "Discount money:"; ObjectID = "rpl-kZ-xIi"; */
+"rpl-kZ-xIi.text" = "ДС начисленные по скидочным картам:";
+
+/* Class = "UIButton"; normalTitle = "Chart"; ObjectID = "RSg-kN-FJB"; */
+"RSg-kN-FJB.normalTitle" = "График";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "SK3-I8-3D0"; */
+"SK3-I8-3D0.text" = "Название:";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Ssg-YE-Jpw"; */
+"Ssg-YE-Jpw.placeholder" = "Пароль";
+
+/* Class = "UITextField"; text = "dergav123"; ObjectID = "Ssg-YE-Jpw"; */
+"Ssg-YE-Jpw.text" = "dergav123";
+
+/* Class = "UILabel"; text = "Put money:"; ObjectID = "UcQ-08-CJ4"; */
+"UcQ-08-CJ4.text" = "Внесенные денежные средства(ВДС):";
+
+/* Class = "UILabel"; text = "Free mode working time:"; ObjectID = "UFk-D0-oRx"; */
+"UFk-D0-oRx.text" = "Время работы в бесплатном режиме:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "VRx-Ce-rLM"; */
+"VRx-Ce-rLM.text" = "Название:";
+
+/* Class = "UITabBarItem"; title = "Expenses"; ObjectID = "VSm-cA-enl"; */
+"VSm-cA-enl.title" = "Расходы";
+
+/* Class = "UITextField"; placeholder = "Login"; ObjectID = "WQa-0f-d4m"; */
+"WQa-0f-d4m.placeholder" = "Логин";
+
+/* Class = "UITextField"; text = "dergavinskaya_test"; ObjectID = "WQa-0f-d4m"; */
+"WQa-0f-d4m.text" = "dergavinskaya_test";
+
+/* Class = "UITabBarItem"; title = "Posts"; ObjectID = "X2w-5C-sUL"; */
+"X2w-5C-sUL.title" = "Посты";
+
+/* Class = "UILabel"; text = "Serial number:"; ObjectID = "xHA-rV-d3R"; */
+"xHA-rV-d3R.text" = "Серийный номер:";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "xyv-oB-74m"; */
+"xyv-oB-74m.text" = "Состояние";
+
+/* Class = "UITextField"; placeholder = "Comment"; ObjectID = "Yl9-og-02Y"; */
+"Yl9-og-02Y.placeholder" = "Комментарий";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "ZMf-QK-ABz"; */
+"ZMf-QK-ABz.text" = "до";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "uSz-xD-noF"; */
+"uSz-xD-noF.normalTitle" = "Обновить";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "X7u-mX-0kj"; */
+"X7u-mX-0kj.normalTitle" = "Сохранить";
