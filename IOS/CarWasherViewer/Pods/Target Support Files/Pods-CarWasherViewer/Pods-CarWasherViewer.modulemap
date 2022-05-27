@@ -1,0 +1,6 @@
+framework module Pods_CarWasherViewer {
+  umbrella header "Pods-CarWasherViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}

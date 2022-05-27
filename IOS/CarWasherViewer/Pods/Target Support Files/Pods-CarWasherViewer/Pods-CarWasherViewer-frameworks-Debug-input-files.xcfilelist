@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-CarWasherViewer/Pods-CarWasherViewer-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/MonthYearPicker/MonthYearPicker.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework
