@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - MonthYearPicker (4.0.2)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - MonthYearPicker (~> 4.0.2)
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - MonthYearPicker
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  MonthYearPicker: 91f77106e6806d8c93c69e943ab0795fd420657f
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: ea938c1d4a993e28c17b125f86fed75b80587b26
+
+COCOAPODS: 1.9.3
