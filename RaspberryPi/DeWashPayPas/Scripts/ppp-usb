@@ -1,0 +1,11 @@
+-crtscts
+local
+passive
+persist
+lock
+10.1.1.1:10.1.1.2
+/dev/ttyACM0 115200
+require-mschap-v2
+nobsdcomp
+-detach
+debug
