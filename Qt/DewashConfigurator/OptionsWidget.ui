@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>OptionsWidget</class>
+ <widget class="QWidget" name="OptionsWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>894</width>
+    <height>784</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_3">
+   <item row="0" column="0" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pbtn_read">
+       <property name="text">
+        <string>Read</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pbtn_write">
+       <property name="text">
+        <string>Write</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_2">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0">
+    <widget class="QFrame" name="frame">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QGridLayout" name="gridLayout" columnstretch="1,2">
+      <item row="0" column="1">
+       <widget class="QStackedWidget" name="stackedWidget">
+        <widget class="QWidget" name="page"/>
+        <widget class="QWidget" name="page_2"/>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QFrame" name="frame_2">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout">
+         <item>
+          <widget class="QListWidget" name="listWidget">
+           <property name="alternatingRowColors">
+            <bool>true</bool>
+           </property>
+           <item>
+            <property name="text">
+             <string>Option 1</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 2</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 3</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 4</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 5</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 6</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 7</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 8</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 9</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 10</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 11</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 12</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 13</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 14</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 15</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 16</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 17</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 18</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 19</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Option 20</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QFrame" name="frame_3">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_2" columnstretch="1,2">
+      <item row="0" column="0">
+       <widget class="QFrame" name="frame_4">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QListWidget" name="listWidget_2">
+           <property name="alternatingRowColors">
+            <bool>true</bool>
+           </property>
+           <item>
+            <property name="text">
+             <string>Auto option 1</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Auto option 2</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Auto option 3</string>
+            </property>
+           </item>
+           <item>
+            <property name="text">
+             <string>Auto option 4</string>
+            </property>
+           </item>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QStackedWidget" name="stackedWidget_2">
+        <widget class="QWidget" name="page_3"/>
+        <widget class="QWidget" name="page_4"/>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>listWidget</sender>
+   <signal>currentRowChanged(int)</signal>
+   <receiver>stackedWidget</receiver>
+   <slot>setCurrentIndex(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>109</x>
+     <y>545</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>189</x>
+     <y>555</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_2</sender>
+   <signal>currentRowChanged(int)</signal>
+   <receiver>stackedWidget_2</receiver>
+   <slot>setCurrentIndex(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>547</x>
+     <y>332</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>677</x>
+     <y>339</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

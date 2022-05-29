@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/open_settings.png</file>
+        <file>images/read_from_controller.png</file>
+        <file>images/reset_settings.png</file>
+        <file>images/save_settings.png</file>
+        <file>images/serial-port-icon-10.jpg</file>
+        <file>images/write_to_controller.png</file>
+        <file>images/reset.png</file>
+    </qresource>
+</RCC>

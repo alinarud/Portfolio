@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AgregatesWidget</class>
+ <widget class="QWidget" name="AgregatesWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1578</width>
+    <height>1052</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_41">
+   <item row="0" column="0" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pbtn_read">
+       <property name="text">
+        <string>Read</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pbtn_write">
+       <property name="text">
+        <string>Write</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_2">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QGroupBox" name="gb_freqConverter1">
+       <property name="title">
+        <string>Frequency converter 1</string>
+       </property>
+       <property name="checkable">
+        <bool>true</bool>
+       </property>
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <layout class="QFormLayout" name="formLayout">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label">
+            <property name="text">
+             <string>Modbus address:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QLineEdit" name="le_freq_converter1_modbus_addr"/>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="gb_freqConverter2">
+       <property name="title">
+        <string>Frequency converter 2</string>
+       </property>
+       <property name="checkable">
+        <bool>true</bool>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="0" column="0">
+         <layout class="QFormLayout" name="formLayout_2">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label_2">
+            <property name="text">
+             <string>Modbus address:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QLineEdit" name="le_freq_converter2_modbus_addr"/>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="2" column="0">
+    <widget class="QGroupBox" name="groupBox">
+     <property name="title">
+      <string>Main board</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_14">
+      <item row="0" column="0">
+       <widget class="QFrame" name="frame">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_4">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_3">
+           <item row="13" column="1">
+            <widget class="QLabel" name="label_15">
+             <property name="text">
+              <string>Input 13</string>
+             </property>
+            </widget>
+           </item>
+           <item row="14" column="1">
+            <widget class="QLabel" name="label_18">
+             <property name="text">
+              <string>Input 14</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="1">
+            <widget class="QLabel" name="label_8">
+             <property name="text">
+              <string>Input 6</string>
+             </property>
+            </widget>
+           </item>
+           <item row="11" column="2">
+            <widget class="QComboBox" name="cb_main_input_11"/>
+           </item>
+           <item row="13" column="2">
+            <widget class="QComboBox" name="cb_main_input_13"/>
+           </item>
+           <item row="15" column="2">
+            <widget class="QComboBox" name="cb_main_input_15"/>
+           </item>
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_4">
+             <property name="text">
+              <string>Input 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="11" column="1">
+            <widget class="QLabel" name="label_13">
+             <property name="text">
+              <string>Input 11</string>
+             </property>
+            </widget>
+           </item>
+           <item row="14" column="2">
+            <widget class="QComboBox" name="cb_main_input_14"/>
+           </item>
+           <item row="3" column="2">
+            <widget class="QComboBox" name="cb_main_input_3"/>
+           </item>
+           <item row="7" column="1">
+            <widget class="QLabel" name="label_9">
+             <property name="text">
+              <string>Input 7</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="cb_main_input_1"/>
+           </item>
+           <item row="5" column="2">
+            <widget class="QComboBox" name="cb_main_input_5"/>
+           </item>
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_3">
+             <property name="text">
+              <string>Input 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="1">
+            <widget class="QLabel" name="label_11">
+             <property name="text">
+              <string>Input 9</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="2">
+            <widget class="QComboBox" name="cb_main_input_7"/>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="cb_main_input_2"/>
+           </item>
+           <item row="8" column="1">
+            <widget class="QLabel" name="label_10">
+             <property name="text">
+              <string>Input 8</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="2">
+            <widget class="QComboBox" name="cb_main_input_6"/>
+           </item>
+           <item row="4" column="2">
+            <widget class="QComboBox" name="cb_main_input_4"/>
+           </item>
+           <item row="12" column="2">
+            <widget class="QComboBox" name="cb_main_input_12"/>
+           </item>
+           <item row="10" column="1">
+            <widget class="QLabel" name="label_12">
+             <property name="text">
+              <string>Input 10</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="1">
+            <widget class="QLabel" name="label_6">
+             <property name="text">
+              <string>Input 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="1">
+            <widget class="QLabel" name="label_5">
+             <property name="text">
+              <string>Input 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="2">
+            <widget class="QComboBox" name="cb_main_input_9"/>
+           </item>
+           <item row="16" column="2">
+            <widget class="QComboBox" name="cb_main_input_16"/>
+           </item>
+           <item row="10" column="2">
+            <widget class="QComboBox" name="cb_main_input_10"/>
+           </item>
+           <item row="5" column="1">
+            <widget class="QLabel" name="label_7">
+             <property name="text">
+              <string>Input 5</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="2">
+            <widget class="QComboBox" name="cb_main_input_8"/>
+           </item>
+           <item row="12" column="1">
+            <widget class="QLabel" name="label_14">
+             <property name="text">
+              <string>Input 12</string>
+             </property>
+            </widget>
+           </item>
+           <item row="16" column="1">
+            <widget class="QLabel" name="label_16">
+             <property name="text">
+              <string>Input 16</string>
+             </property>
+            </widget>
+           </item>
+           <item row="15" column="1">
+            <widget class="QLabel" name="label_17">
+             <property name="text">
+              <string>Input 15</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_27">
+             <property name="text">
+              <string>Inputs</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="2">
+            <widget class="QLabel" name="label_28">
+             <property name="text">
+              <string>Agregates</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QFrame" name="frame_2">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_5">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_6">
+           <item row="10" column="2">
+            <widget class="QComboBox" name="cb_main_output_10"/>
+           </item>
+           <item row="5" column="1">
+            <widget class="QLabel" name="label_23">
+             <property name="text">
+              <string>Output 5</string>
+             </property>
+            </widget>
+           </item>
+           <item row="12" column="1">
+            <widget class="QLabel" name="label_26">
+             <property name="text">
+              <string>Output 12</string>
+             </property>
+            </widget>
+           </item>
+           <item row="11" column="1">
+            <widget class="QLabel" name="label_30">
+             <property name="text">
+              <string>Output 11</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="cb_main_output_2"/>
+           </item>
+           <item row="3" column="1">
+            <widget class="QLabel" name="label_33">
+             <property name="text">
+              <string>Output 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="2">
+            <widget class="QComboBox" name="cb_main_output_7"/>
+           </item>
+           <item row="14" column="2">
+            <widget class="QComboBox" name="cb_main_output_14"/>
+           </item>
+           <item row="13" column="1">
+            <widget class="QLabel" name="label_24">
+             <property name="text">
+              <string>Output 13</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="cb_main_output_1"/>
+           </item>
+           <item row="12" column="2">
+            <widget class="QComboBox" name="cb_main_output_12"/>
+           </item>
+           <item row="10" column="1">
+            <widget class="QLabel" name="label_29">
+             <property name="text">
+              <string>Output 10</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="2">
+            <widget class="QComboBox" name="cb_main_output_9"/>
+           </item>
+           <item row="13" column="2">
+            <widget class="QComboBox" name="cb_main_output_13"/>
+           </item>
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_22">
+             <property name="text">
+              <string>Output 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="2">
+            <widget class="QComboBox" name="cb_main_output_6"/>
+           </item>
+           <item row="8" column="2">
+            <widget class="QComboBox" name="cb_main_output_8"/>
+           </item>
+           <item row="8" column="1">
+            <widget class="QLabel" name="label_32">
+             <property name="text">
+              <string>Output 8</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="2">
+            <widget class="QComboBox" name="cb_main_output_3"/>
+           </item>
+           <item row="14" column="1">
+            <widget class="QLabel" name="label_34">
+             <property name="text">
+              <string>Output 14</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_19">
+             <property name="text">
+              <string>Output 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="1">
+            <widget class="QLabel" name="label_25">
+             <property name="text">
+              <string>Output 9</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="1">
+            <widget class="QLabel" name="label_20">
+             <property name="text">
+              <string>Output 7</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="1">
+            <widget class="QLabel" name="label_31">
+             <property name="text">
+              <string>Output 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="1">
+            <widget class="QLabel" name="label_21">
+             <property name="text">
+              <string>Output 6</string>
+             </property>
+            </widget>
+           </item>
+           <item row="5" column="2">
+            <widget class="QComboBox" name="cb_main_output_5"/>
+           </item>
+           <item row="4" column="2">
+            <widget class="QComboBox" name="cb_main_output_4"/>
+           </item>
+           <item row="11" column="2">
+            <widget class="QComboBox" name="cb_main_output_11"/>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_35">
+             <property name="text">
+              <string>Outputs</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="2">
+            <widget class="QLabel" name="label_36">
+             <property name="text">
+              <string>Agregates</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="1" column="0">
+          <spacer name="verticalSpacer">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QFrame" name="frame_3">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_11">
+         <item row="2" column="0">
+          <widget class="QGroupBox" name="groupBox_4">
+           <property name="title">
+            <string>Dispenser 3</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_9">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_5">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_41">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser3_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_42">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser3_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="3" column="0">
+          <widget class="QGroupBox" name="groupBox_5">
+           <property name="title">
+            <string>Dispenser 4</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_10">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_6">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_43">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser4_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_44">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser4_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QGroupBox" name="groupBox_2">
+           <property name="title">
+            <string>Dispenser 1</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_7">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_3">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_37">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser1_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_38">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser1_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QGroupBox" name="groupBox_3">
+           <property name="title">
+            <string>Dispenser 2</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_8">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_4">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_39">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser2_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_40">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_main_dispenser2_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="4" column="0">
+          <spacer name="verticalSpacer_2">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="1" column="0" colspan="3">
+       <widget class="QGroupBox" name="groupBox_6">
+        <property name="title">
+         <string>Sensors</string>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_13">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_12">
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_45">
+             <property name="text">
+              <string>Sensor 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QComboBox" name="cb_main_sensor1_type"/>
+           </item>
+           <item row="0" column="2">
+            <widget class="QSpinBox" name="sb_main_sensor1_pulses"/>
+           </item>
+           <item row="0" column="3">
+            <widget class="QLabel" name="label_49">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QLabel" name="label_46">
+             <property name="text">
+              <string>Sensor 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="1">
+            <widget class="QComboBox" name="cb_main_sensor2_type"/>
+           </item>
+           <item row="1" column="2">
+            <widget class="QSpinBox" name="sb_main_sensor2_pulses"/>
+           </item>
+           <item row="1" column="3">
+            <widget class="QLabel" name="label_50">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="0">
+            <widget class="QLabel" name="label_47">
+             <property name="text">
+              <string>Sensor 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="1">
+            <widget class="QComboBox" name="cb_main_sensor3_type"/>
+           </item>
+           <item row="2" column="2">
+            <widget class="QSpinBox" name="sb_main_sensor3_pulses"/>
+           </item>
+           <item row="2" column="3">
+            <widget class="QLabel" name="label_51">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QLabel" name="label_48">
+             <property name="text">
+              <string>Sensor 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="1">
+            <widget class="QComboBox" name="cb_main_sensor4_type"/>
+           </item>
+           <item row="3" column="2">
+            <widget class="QSpinBox" name="sb_main_sensor4_pulses"/>
+           </item>
+           <item row="3" column="3">
+            <widget class="QLabel" name="label_52">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QGroupBox" name="groupBox_7">
+     <property name="title">
+      <string>Expansion board</string>
+     </property>
+     <property name="checkable">
+      <bool>true</bool>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_30">
+      <item row="0" column="0" colspan="3">
+       <layout class="QFormLayout" name="formLayout_15">
+        <item row="0" column="0">
+         <widget class="QLabel" name="label_103">
+          <property name="text">
+           <string>Modbus address:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QLineEdit" name="le_expansion_modbus_addr"/>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="0">
+       <widget class="QFrame" name="frame_7">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_28">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_29">
+           <item row="0" column="2">
+            <widget class="QLabel" name="label_120">
+             <property name="text">
+              <string>Agregates</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="1">
+            <widget class="QLabel" name="label_111">
+             <property name="text">
+              <string>Input 8</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_7"/>
+           </item>
+           <item row="5" column="1">
+            <widget class="QLabel" name="label_115">
+             <property name="text">
+              <string>Input 5</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_2"/>
+           </item>
+           <item row="3" column="1">
+            <widget class="QLabel" name="label_114">
+             <property name="text">
+              <string>Input 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="1">
+            <widget class="QLabel" name="label_113">
+             <property name="text">
+              <string>Input 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_4"/>
+           </item>
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_109">
+             <property name="text">
+              <string>Input 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_1"/>
+           </item>
+           <item row="6" column="1">
+            <widget class="QLabel" name="label_105">
+             <property name="text">
+              <string>Input 6</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_3"/>
+           </item>
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_106">
+             <property name="text">
+              <string>Input 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_8"/>
+           </item>
+           <item row="6" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_6"/>
+           </item>
+           <item row="5" column="2">
+            <widget class="QComboBox" name="cb_expansion_input_5"/>
+           </item>
+           <item row="7" column="1">
+            <widget class="QLabel" name="label_108">
+             <property name="text">
+              <string>Input 7</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_119">
+             <property name="text">
+              <string>Inputs</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="2">
+            <spacer name="verticalSpacer_7">
+             <property name="orientation">
+              <enum>Qt::Vertical</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>20</width>
+               <height>40</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QFrame" name="frame_8">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_27">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_31">
+           <item row="11" column="1">
+            <widget class="QLabel" name="label_123">
+             <property name="text">
+              <string>Output 11</string>
+             </property>
+            </widget>
+           </item>
+           <item row="14" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_14"/>
+           </item>
+           <item row="5" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_5"/>
+           </item>
+           <item row="10" column="1">
+            <widget class="QLabel" name="label_126">
+             <property name="text">
+              <string>Output 10</string>
+             </property>
+            </widget>
+           </item>
+           <item row="5" column="1">
+            <widget class="QLabel" name="label_121">
+             <property name="text">
+              <string>Output 5</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_130">
+             <property name="text">
+              <string>Output 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="2">
+            <widget class="QLabel" name="label_136">
+             <property name="text">
+              <string>Agregates</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="1">
+            <widget class="QLabel" name="label_134">
+             <property name="text">
+              <string>Output 6</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_7"/>
+           </item>
+           <item row="3" column="1">
+            <widget class="QLabel" name="label_124">
+             <property name="text">
+              <string>Output 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="11" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_11"/>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_2"/>
+           </item>
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_127">
+             <property name="text">
+              <string>Output 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="1">
+            <widget class="QLabel" name="label_128">
+             <property name="text">
+              <string>Output 8</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="1">
+            <widget class="QLabel" name="label_132">
+             <property name="text">
+              <string>Output 7</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="1">
+            <widget class="QLabel" name="label_131">
+             <property name="text">
+              <string>Output 9</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_8"/>
+           </item>
+           <item row="4" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_4"/>
+           </item>
+           <item row="13" column="1">
+            <widget class="QLabel" name="label_125">
+             <property name="text">
+              <string>Output 13</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="1">
+            <widget class="QLabel" name="label_133">
+             <property name="text">
+              <string>Output 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_6"/>
+           </item>
+           <item row="12" column="1">
+            <widget class="QLabel" name="label_122">
+             <property name="text">
+              <string>Output 12</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_135">
+             <property name="text">
+              <string>Outputs</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_9"/>
+           </item>
+           <item row="3" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_3"/>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_1"/>
+           </item>
+           <item row="13" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_13"/>
+           </item>
+           <item row="12" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_12"/>
+           </item>
+           <item row="10" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_10"/>
+           </item>
+           <item row="14" column="1">
+            <widget class="QLabel" name="label_129">
+             <property name="text">
+              <string>Output 14</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="1">
+          <layout class="QGridLayout" name="gridLayout_40">
+           <item row="11" column="1">
+            <widget class="QLabel" name="label_153">
+             <property name="text">
+              <string>Output 25</string>
+             </property>
+            </widget>
+           </item>
+           <item row="14" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_28"/>
+           </item>
+           <item row="5" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_19"/>
+           </item>
+           <item row="10" column="1">
+            <widget class="QLabel" name="label_154">
+             <property name="text">
+              <string>Output 24</string>
+             </property>
+            </widget>
+           </item>
+           <item row="5" column="1">
+            <widget class="QLabel" name="label_155">
+             <property name="text">
+              <string>Output 19</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="1">
+            <widget class="QLabel" name="label_156">
+             <property name="text">
+              <string>Output 15</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="2">
+            <widget class="QLabel" name="label_157">
+             <property name="text">
+              <string>Agregates</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="1">
+            <widget class="QLabel" name="label_158">
+             <property name="text">
+              <string>Output 20</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_21"/>
+           </item>
+           <item row="3" column="1">
+            <widget class="QLabel" name="label_159">
+             <property name="text">
+              <string>Output 17</string>
+             </property>
+            </widget>
+           </item>
+           <item row="11" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_25"/>
+           </item>
+           <item row="2" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_16"/>
+           </item>
+           <item row="2" column="1">
+            <widget class="QLabel" name="label_183">
+             <property name="text">
+              <string>Output 16</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="1">
+            <widget class="QLabel" name="label_184">
+             <property name="text">
+              <string>Output 22</string>
+             </property>
+            </widget>
+           </item>
+           <item row="7" column="1">
+            <widget class="QLabel" name="label_185">
+             <property name="text">
+              <string>Output 21</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="1">
+            <widget class="QLabel" name="label_186">
+             <property name="text">
+              <string>Output 23</string>
+             </property>
+            </widget>
+           </item>
+           <item row="8" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_22"/>
+           </item>
+           <item row="4" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_18"/>
+           </item>
+           <item row="13" column="1">
+            <widget class="QLabel" name="label_187">
+             <property name="text">
+              <string>Output 27</string>
+             </property>
+            </widget>
+           </item>
+           <item row="4" column="1">
+            <widget class="QLabel" name="label_188">
+             <property name="text">
+              <string>Output 18</string>
+             </property>
+            </widget>
+           </item>
+           <item row="6" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_20"/>
+           </item>
+           <item row="12" column="1">
+            <widget class="QLabel" name="label_189">
+             <property name="text">
+              <string>Output 26</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QLabel" name="label_190">
+             <property name="text">
+              <string>Outputs</string>
+             </property>
+            </widget>
+           </item>
+           <item row="9" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_23"/>
+           </item>
+           <item row="3" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_17"/>
+           </item>
+           <item row="1" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_15"/>
+           </item>
+           <item row="13" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_27"/>
+           </item>
+           <item row="12" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_26"/>
+           </item>
+           <item row="10" column="2">
+            <widget class="QComboBox" name="cb_expansion_output_24"/>
+           </item>
+           <item row="14" column="1">
+            <widget class="QLabel" name="label_191">
+             <property name="text">
+              <string>Output 28</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="1" column="0">
+          <spacer name="verticalSpacer_5">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QFrame" name="frame_9">
+        <property name="frameShape">
+         <enum>QFrame::StyledPanel</enum>
+        </property>
+        <property name="frameShadow">
+         <enum>QFrame::Raised</enum>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_32">
+         <item row="2" column="0">
+          <widget class="QGroupBox" name="groupBox_13">
+           <property name="title">
+            <string>Dispenser 3</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_33">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_11">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_137">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser3_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_138">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser3_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="3" column="0">
+          <widget class="QGroupBox" name="groupBox_14">
+           <property name="title">
+            <string>Dispenser 4</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_34">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_12">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_139">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser4_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_140">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser4_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QGroupBox" name="groupBox_15">
+           <property name="title">
+            <string>Dispenser 1</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_35">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_13">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_141">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser1_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_142">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser1_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QGroupBox" name="groupBox_16">
+           <property name="title">
+            <string>Dispenser 2</string>
+           </property>
+           <property name="checkable">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_36">
+            <item row="0" column="0">
+             <layout class="QFormLayout" name="formLayout_14">
+              <item row="0" column="0">
+               <widget class="QLabel" name="label_143">
+                <property name="text">
+                 <string>Frequency:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser2_freq"/>
+              </item>
+              <item row="1" column="0">
+               <widget class="QLabel" name="label_144">
+                <property name="text">
+                 <string>Filling:</string>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="1">
+               <widget class="QSpinBox" name="sb_expansion_dispenser2_filling"/>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="4" column="0">
+          <spacer name="verticalSpacer_6">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>40</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="2" column="0" colspan="2">
+       <widget class="QGroupBox" name="groupBox_17">
+        <property name="title">
+         <string>Sensors</string>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_37">
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_38">
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_145">
+             <property name="text">
+              <string>Sensor 1</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <widget class="QComboBox" name="cb_expansion_sensor1_type"/>
+           </item>
+           <item row="0" column="2">
+            <widget class="QSpinBox" name="sb_expansion_sensor1_pulses"/>
+           </item>
+           <item row="0" column="3">
+            <widget class="QLabel" name="label_146">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QLabel" name="label_147">
+             <property name="text">
+              <string>Sensor 2</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="1">
+            <widget class="QComboBox" name="cb_expansion_sensor2_type"/>
+           </item>
+           <item row="1" column="2">
+            <widget class="QSpinBox" name="sb_expansion_sensor2_pulses"/>
+           </item>
+           <item row="1" column="3">
+            <widget class="QLabel" name="label_148">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="0">
+            <widget class="QLabel" name="label_149">
+             <property name="text">
+              <string>Sensor 3</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="1">
+            <widget class="QComboBox" name="cb_expansion_sensor3_type"/>
+           </item>
+           <item row="2" column="2">
+            <widget class="QSpinBox" name="sb_expansion_sensor3_pulses"/>
+           </item>
+           <item row="2" column="3">
+            <widget class="QLabel" name="label_150">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QLabel" name="label_151">
+             <property name="text">
+              <string>Sensor 4</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="1">
+            <widget class="QComboBox" name="cb_expansion_sensor4_type"/>
+           </item>
+           <item row="3" column="2">
+            <widget class="QSpinBox" name="sb_expansion_sensor4_pulses"/>
+           </item>
+           <item row="3" column="3">
+            <widget class="QLabel" name="label_152">
+             <property name="text">
+              <string>pulses per litre</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
