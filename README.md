@@ -6,6 +6,11 @@ The application communicates with the car wash controller through the Modbus pro
 # DewashConfigurator (Qt application)
 The GUI desktop application allows configuring a self-service car wash controller from a computer. In particular, settings that were set manually on a hardware device. For example, inputs/outputs, interface settings, car wash data, and payment device settings.
 The application was created using the Qt framework. The application communicates with the hardware equipment through RS232 interface and uses Modbus protocol.
+![plot](./images/carwasherconfigurator_1.png)
+
+![plot](./images/carwasherconfigurator_2.png)
+
+![plot](./images/carwasherconfigurator_3.png)
 
 # CarWasherViewer (IOS application)
 IOS application developed for DeWash company to display data from a Web server. 
